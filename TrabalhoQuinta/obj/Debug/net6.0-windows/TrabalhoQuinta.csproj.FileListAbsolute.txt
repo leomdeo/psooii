@@ -1,0 +1,48 @@
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.exe
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.deps.json
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.runtimeconfig.json
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.pdb
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.Form1.resources
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.GenerateResource.cache
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.AssemblyInfoInputs.cache
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.AssemblyInfo.cs
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\refint\TrabalhoQuinta.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.pdb
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.genruntimeconfig.cache
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\ref\TrabalhoQuinta.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\W10\source\repos\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.CopyComplete
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.exe
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.deps.json
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.runtimeconfig.json
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\TrabalhoQuinta.pdb
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.Form1.resources
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.AssemblyInfo.cs
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.csproj.CopyComplete
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\refint\TrabalhoQuinta.dll
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.pdb
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\TrabalhoQuinta.genruntimeconfig.cache
+C:\Users\W10\Desktop\Trabalho PSOO II\TrabalhoQuinta\TrabalhoQuinta\obj\Debug\net6.0-windows\ref\TrabalhoQuinta.dll
